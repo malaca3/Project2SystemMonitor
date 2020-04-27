@@ -3,7 +3,6 @@
 #include "linux_parser.h"
 #include "processor.h"
 
-// TODO: Return the aggregate CPU utilization
 float Processor::Utilization() { 
 float prevIdleT = 0, prevNonIdle = 0, prevTotal = 0;
 float idleT = 0, nonIdle = 0, totald = 0, idled = 0, CPU_Percentage = 0, total = 0;

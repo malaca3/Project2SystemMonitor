@@ -18,14 +18,6 @@ regex
 string
 -
 
-../include/ncurses_display.h
-curses.h
--
-process.h
-../include/process.h
-system.h
-../include/system.h
-
 ../include/process.h
 string
 -
@@ -50,7 +42,7 @@ processor.h
 linux_parser.h
 ../include/linux_parser.h
 
-/home/workspace/CppND-System-Monitor-Project-Updated/src/format.cpp
+/home/workspace/Project2/src/format.cpp
 string
 -
 iomanip
@@ -62,9 +54,9 @@ iostream
 sstream
 -
 format.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/format.h
+/home/workspace/Project2/src/format.h
 
-/home/workspace/CppND-System-Monitor-Project-Updated/src/linux_parser.cpp
+/home/workspace/Project2/src/linux_parser.cpp
 dirent.h
 -
 unistd.h
@@ -80,35 +72,11 @@ math.h
 unistd.h
 -
 linux_parser.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/linux_parser.h
+/home/workspace/Project2/src/linux_parser.h
 format.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/format.h
+/home/workspace/Project2/src/format.h
 
-/home/workspace/CppND-System-Monitor-Project-Updated/src/main.cpp
-ncurses_display.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/ncurses_display.h
-system.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/system.h
-
-/home/workspace/CppND-System-Monitor-Project-Updated/src/ncurses_display.cpp
-curses.h
--
-chrono
--
-string
--
-thread
--
-vector
--
-format.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/format.h
-ncurses_display.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/ncurses_display.h
-system.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/system.h
-
-/home/workspace/CppND-System-Monitor-Project-Updated/src/process.cpp
+/home/workspace/Project2/src/process.cpp
 unistd.h
 -
 cctype
@@ -122,21 +90,21 @@ vector
 unistd.h
 -
 process.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/process.h
+/home/workspace/Project2/src/process.h
 linux_parser.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/linux_parser.h
+/home/workspace/Project2/src/linux_parser.h
 
-/home/workspace/CppND-System-Monitor-Project-Updated/src/processor.cpp
+/home/workspace/Project2/src/processor.cpp
 string
 -
 vector
 -
 linux_parser.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/linux_parser.h
+/home/workspace/Project2/src/linux_parser.h
 processor.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/processor.h
+/home/workspace/Project2/src/processor.h
 
-/home/workspace/CppND-System-Monitor-Project-Updated/src/system.cpp
+/home/workspace/Project2/src/system.cpp
 unistd.h
 -
 cstddef
@@ -150,11 +118,11 @@ vector
 algorithm
 -
 process.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/process.h
+/home/workspace/Project2/src/process.h
 processor.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/processor.h
+/home/workspace/Project2/src/processor.h
 system.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/system.h
+/home/workspace/Project2/src/system.h
 linux_parser.h
-/home/workspace/CppND-System-Monitor-Project-Updated/src/linux_parser.h
+/home/workspace/Project2/src/linux_parser.h
 

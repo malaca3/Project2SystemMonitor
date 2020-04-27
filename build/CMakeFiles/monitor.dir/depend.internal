@@ -3,18 +3,18 @@
 
 CMakeFiles/monitor.dir/src/format.cpp.o
  ../include/format.h
- /home/workspace/CppND-System-Monitor-Project-Updated/src/format.cpp
+ /home/workspace/Project2/src/format.cpp
 CMakeFiles/monitor.dir/src/linux_parser.cpp.o
  ../include/format.h
  ../include/linux_parser.h
- /home/workspace/CppND-System-Monitor-Project-Updated/src/linux_parser.cpp
+ /home/workspace/Project2/src/linux_parser.cpp
 CMakeFiles/monitor.dir/src/main.cpp.o
  ../include/linux_parser.h
  ../include/ncurses_display.h
  ../include/process.h
  ../include/processor.h
  ../include/system.h
- /home/workspace/CppND-System-Monitor-Project-Updated/src/main.cpp
+ /home/workspace/Project2/src/main.cpp
 CMakeFiles/monitor.dir/src/ncurses_display.cpp.o
  ../include/format.h
  ../include/linux_parser.h
@@ -22,18 +22,18 @@ CMakeFiles/monitor.dir/src/ncurses_display.cpp.o
  ../include/process.h
  ../include/processor.h
  ../include/system.h
- /home/workspace/CppND-System-Monitor-Project-Updated/src/ncurses_display.cpp
+ /home/workspace/Project2/src/ncurses_display.cpp
 CMakeFiles/monitor.dir/src/process.cpp.o
  ../include/linux_parser.h
  ../include/process.h
- /home/workspace/CppND-System-Monitor-Project-Updated/src/process.cpp
+ /home/workspace/Project2/src/process.cpp
 CMakeFiles/monitor.dir/src/processor.cpp.o
  ../include/linux_parser.h
  ../include/processor.h
- /home/workspace/CppND-System-Monitor-Project-Updated/src/processor.cpp
+ /home/workspace/Project2/src/processor.cpp
 CMakeFiles/monitor.dir/src/system.cpp.o
  ../include/linux_parser.h
  ../include/process.h
  ../include/processor.h
  ../include/system.h
- /home/workspace/CppND-System-Monitor-Project-Updated/src/system.cpp
+ /home/workspace/Project2/src/system.cpp

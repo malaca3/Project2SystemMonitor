@@ -6,5 +6,5 @@ CXX_FLAGS =   -Wall -Wextra -std=gnu++1z
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/workspace/CppND-System-Monitor-Project-Updated/include 
+CXX_INCLUDES = -I/home/workspace/Project2/include 
 
